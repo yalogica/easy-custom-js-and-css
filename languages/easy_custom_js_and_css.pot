@@ -1,0 +1,520 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Custom Js And Css\n"
+"POT-Creation-Date: 2019-01-16 14:13+0300\n"
+"PO-Revision-Date: 2018-05-14 23:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-custom-js-and-css.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.txt\n"
+"X-Poedit-SearchPathExcluded-2: *.html\n"
+"X-Poedit-SearchPathExcluded-3: *.css\n"
+
+#: includes/list-table-filters.php:51 includes/list-table-items.php:53
+msgid "Edit"
+msgstr ""
+
+#: includes/list-table-filters.php:52 includes/list-table-items.php:54
+msgid "Duplicate"
+msgstr ""
+
+#: includes/list-table-filters.php:53 includes/list-table-items.php:55
+msgid "Delete"
+msgstr ""
+
+#: includes/list-table-filters.php:86 includes/list-table-filters.php:97
+#: includes/list-table-items.php:121 includes/list-table-items.php:132
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: includes/list-table-filters.php:87 includes/list-table-filters.php:98
+#: includes/list-table-items.php:122 includes/list-table-items.php:133
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/list-table-filters.php:110 includes/list-table-items.php:145
+#: includes/page-filter.php:33 includes/page-item.php:35
+msgid "Title"
+msgstr ""
+
+#: includes/list-table-filters.php:111 includes/list-table-items.php:148
+msgid "Author"
+msgstr ""
+
+#: includes/list-table-filters.php:112 includes/list-table-items.php:149
+#: includes/plugin.php:1347
+msgid "Date"
+msgstr ""
+
+#: includes/list-table-filters.php:113 includes/list-table-items.php:150
+msgid "Modified"
+msgstr ""
+
+#: includes/list-table-items.php:146 includes/page-item.php:46
+msgid "Active"
+msgstr ""
+
+#: includes/list-table-items.php:147
+msgid "Type"
+msgstr ""
+
+#: includes/page-filter.php:15
+msgid "Easy Custom JS & CSS Filter"
+msgstr ""
+
+#: includes/page-filter.php:19 includes/page-filters.php:16
+msgid "Add New Filter"
+msgstr ""
+
+#: includes/page-filter.php:42
+msgid "[enter a value]"
+msgstr ""
+
+#: includes/page-filter.php:46 includes/page-item.php:123
+#: includes/page-settings.php:59
+msgid "Save Changes"
+msgstr ""
+
+#: includes/page-filters.php:14 includes/plugin.php:711
+msgid "Easy Custom JS & CSS Filters"
+msgstr ""
+
+#: includes/page-info.php:11
+msgid ""
+"This is the <b>LITE version</b> of the plugin. It has some limits, see "
+"interface."
+msgstr ""
+
+#: includes/page-info.php:12
+msgid ""
+"Buy the <b>PRO version</b> here - <a href=\"https://1.envato.market/J2Pba"
+"\">Easy Custom JS and CSS - Extra Customization for WordPress</a>"
+msgstr ""
+
+#: includes/page-item.php:15 includes/page-items.php:14 includes/plugin.php:709
+#: includes/plugin.php:710
+msgid "Easy Custom JS & CSS"
+msgstr ""
+
+#: includes/page-item.php:19 includes/page-items.php:16
+msgid "Add JS Code"
+msgstr ""
+
+#: includes/page-item.php:20 includes/page-items.php:17
+msgid "Add CSS Code"
+msgstr ""
+
+#: includes/page-item.php:21 includes/page-items.php:18
+msgid "Add HTML Code"
+msgstr ""
+
+#: includes/page-item.php:40
+msgid "Options"
+msgstr ""
+
+#: includes/page-item.php:51
+msgid "Minify output"
+msgstr ""
+
+#: includes/page-item.php:52 includes/page-item.php:59 includes/plugin.php:736
+#: includes/plugin.php:880 includes/plugin.php:996
+msgid "Available only in Pro version"
+msgstr ""
+
+#: includes/page-item.php:58
+msgid "Preprocessor"
+msgstr ""
+
+#: includes/page-item.php:63 includes/plugin.php:1308 includes/plugin.php:1409
+msgid "None"
+msgstr ""
+
+#: includes/page-item.php:64
+msgid "Scss"
+msgstr ""
+
+#: includes/page-item.php:65
+msgid "Less"
+msgstr ""
+
+#: includes/page-item.php:70
+msgid "Linking type"
+msgstr ""
+
+#: includes/page-item.php:73
+msgid "Internal"
+msgstr ""
+
+#: includes/page-item.php:74
+msgid "External"
+msgstr ""
+
+#: includes/page-item.php:79
+msgid "Where on page"
+msgstr ""
+
+#: includes/page-item.php:82
+msgid "Header"
+msgstr ""
+
+#: includes/page-item.php:83
+msgid "Footer"
+msgstr ""
+
+#: includes/page-item.php:88
+msgid "Where in site"
+msgstr ""
+
+#: includes/page-item.php:91
+msgid "User side"
+msgstr ""
+
+#: includes/page-item.php:92
+msgid "Admin side"
+msgstr ""
+
+#: includes/page-item.php:93
+msgid "All"
+msgstr ""
+
+#: includes/page-item.php:98
+msgid "Filter"
+msgstr ""
+
+#: includes/page-item.php:111
+msgid "Editor"
+msgstr ""
+
+#: includes/page-item.php:116
+#, php-format
+msgid "Last edited by %1$s on %2$s"
+msgstr ""
+
+#: includes/page-settings.php:13 includes/plugin.php:712
+msgid "Easy Custom JS & CSS Settings"
+msgstr ""
+
+#: includes/page-settings.php:29 includes/plugin.php:712
+msgid "Settings"
+msgstr ""
+
+#: includes/page-settings.php:32
+msgid "JavaScript Editor Theme"
+msgstr ""
+
+#: includes/page-settings.php:35 includes/page-settings.php:44
+#: includes/page-settings.php:53
+msgid "default"
+msgstr ""
+
+#: includes/page-settings.php:41
+msgid "CSS Editor Theme"
+msgstr ""
+
+#: includes/page-settings.php:50
+msgid "HTML Editor Theme"
+msgstr ""
+
+#: includes/page-settings.php:65
+msgid "Actions"
+msgstr ""
+
+#: includes/page-settings.php:68
+msgid "Do you really want to delete all data?"
+msgstr ""
+
+#: includes/page-settings.php:68
+msgid "Delete all data"
+msgstr ""
+
+#: includes/plugin.php:101
+#, php-format
+msgid "The \"%s\" directory could not be created"
+msgstr ""
+
+#: includes/plugin.php:102 includes/plugin.php:112
+msgid "Please run the following commands in order to make the directory"
+msgstr ""
+
+#: includes/plugin.php:111
+#, php-format
+msgid ""
+"The \"%s\" directory is not writable, therefore the css and js files cannot "
+"be saved."
+msgstr ""
+
+#: includes/plugin.php:709
+msgid "Custom JS & CSS"
+msgstr ""
+
+#: includes/plugin.php:710
+msgid "All Items"
+msgstr ""
+
+#: includes/plugin.php:711
+msgid "All filters"
+msgstr ""
+
+#: includes/plugin.php:739 includes/plugin.php:883 includes/plugin.php:999
+msgid "Uncaught Error"
+msgstr ""
+
+#: includes/plugin.php:812 includes/plugin.php:950
+msgid "[Duplicate] "
+msgstr ""
+
+#: includes/plugin.php:1048 includes/plugin.php:1104 includes/plugin.php:1244
+msgid "Item updated"
+msgstr ""
+
+#: includes/plugin.php:1051 includes/plugin.php:1107 includes/plugin.php:1247
+msgid "The operation failed, can't update item"
+msgstr ""
+
+#: includes/plugin.php:1055 includes/plugin.php:1198 includes/plugin.php:1270
+#: includes/plugin.php:1553 includes/plugin.php:1559 includes/plugin.php:1631
+#: includes/plugin.php:1637
+msgid "The operation failed"
+msgstr ""
+
+#: includes/plugin.php:1125 includes/plugin.php:1262
+msgid "Item created"
+msgstr ""
+
+#: includes/plugin.php:1128 includes/plugin.php:1265
+msgid "The operation failed, can't create item"
+msgstr ""
+
+#: includes/plugin.php:1149
+msgid "Can't compile LESS data.<br>Message: "
+msgstr ""
+
+#: includes/plugin.php:1161
+msgid "Can't compile SCSS data.<br>Message: "
+msgstr ""
+
+#: includes/plugin.php:1294
+msgid "Add rule"
+msgstr ""
+
+#: includes/plugin.php:1295
+msgid "Add group"
+msgstr ""
+
+#: includes/plugin.php:1301
+msgid "And"
+msgstr ""
+
+#: includes/plugin.php:1302
+msgid "Or"
+msgstr ""
+
+#: includes/plugin.php:1311
+msgid "Server"
+msgstr ""
+
+#: includes/plugin.php:1313
+msgid "Request URI"
+msgstr ""
+
+#: includes/plugin.php:1318
+msgid "WordPress"
+msgstr ""
+
+#: includes/plugin.php:1320
+msgid "Post Title"
+msgstr ""
+
+#: includes/plugin.php:1321
+msgid "Page Title"
+msgstr ""
+
+#: includes/plugin.php:1322
+msgid "Page Template"
+msgstr ""
+
+#: includes/plugin.php:1327
+msgid "Users"
+msgstr ""
+
+#: includes/plugin.php:1329
+msgid "Logged in"
+msgstr ""
+
+#: includes/plugin.php:1330
+msgid "User login"
+msgstr ""
+
+#: includes/plugin.php:1331
+msgid "Role"
+msgstr ""
+
+#: includes/plugin.php:1336
+msgid "System"
+msgstr ""
+
+#: includes/plugin.php:1338
+msgid "Device"
+msgstr ""
+
+#: includes/plugin.php:1339
+msgid "OS"
+msgstr ""
+
+#: includes/plugin.php:1340
+msgid "Browser"
+msgstr ""
+
+#: includes/plugin.php:1345
+msgid "Server Date & Time"
+msgstr ""
+
+#: includes/plugin.php:1348
+msgid "Time"
+msgstr ""
+
+#: includes/plugin.php:1349
+msgid "Minutes"
+msgstr ""
+
+#: includes/plugin.php:1350
+msgid "Hours"
+msgstr ""
+
+#: includes/plugin.php:1351
+msgid "Day"
+msgstr ""
+
+#: includes/plugin.php:1352
+msgid "Day of week"
+msgstr ""
+
+#: includes/plugin.php:1353
+msgid "Month"
+msgstr ""
+
+#: includes/plugin.php:1354
+msgid "Year"
+msgstr ""
+
+#: includes/plugin.php:1363
+msgid "Yes"
+msgstr ""
+
+#: includes/plugin.php:1364
+msgid "No"
+msgstr ""
+
+#: includes/plugin.php:1365
+msgid "Contains"
+msgstr ""
+
+#: includes/plugin.php:1366
+msgid "Does not contains"
+msgstr ""
+
+#: includes/plugin.php:1367
+msgid "Start with"
+msgstr ""
+
+#: includes/plugin.php:1368
+msgid "End with"
+msgstr ""
+
+#: includes/plugin.php:1369
+msgid "Equals"
+msgstr ""
+
+#: includes/plugin.php:1370
+msgid "Does not equals"
+msgstr ""
+
+#: includes/plugin.php:1371
+msgid "Is blank"
+msgstr ""
+
+#: includes/plugin.php:1372
+msgid "Is not blank"
+msgstr ""
+
+#: includes/plugin.php:1373
+msgid "Less than"
+msgstr ""
+
+#: includes/plugin.php:1374
+msgid "Greater than"
+msgstr ""
+
+#: includes/plugin.php:1375
+msgid "Less than or equal to"
+msgstr ""
+
+#: includes/plugin.php:1376
+msgid "Greater than or equal to"
+msgstr ""
+
+#: includes/plugin.php:1377
+msgid "In list"
+msgstr ""
+
+#: includes/plugin.php:1378
+msgid "Not in list"
+msgstr ""
+
+#: includes/plugin.php:1379
+msgid "RegEx"
+msgstr ""
+
+#: includes/plugin.php:1593
+msgid "Settings updated"
+msgstr ""
+
+#: includes/plugin.php:1596
+msgid "The operation failed, can't update settings"
+msgstr ""
+
+#: includes/plugin.php:1655
+msgid "The operation failed, can't delete data"
+msgstr ""
+
+#: includes/plugin.php:1670
+msgid "All data deleted"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Custom Js And Css (PRO)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://avirtum.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add your own custom css styles and javascript code with a powerful editor "
+"and take more control over themes and plugins appearance, apply styles and "
+"code based on site-specific parameters and settings like url, date, users, "
+"roles and etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Avirtum"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://avirtum.com/"
+msgstr ""

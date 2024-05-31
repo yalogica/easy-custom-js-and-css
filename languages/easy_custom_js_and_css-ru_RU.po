@@ -1,0 +1,551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Custom Js And Css\n"
+"POT-Creation-Date: 2018-06-12 23:18+0300\n"
+"PO-Revision-Date: 2018-06-12 23:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-custom-js-and-css.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"X-Poedit-SearchPathExcluded-2: *.html\n"
+"X-Poedit-SearchPathExcluded-3: *.txt\n"
+
+#: includes/list-table-filters.php:51 includes/list-table-items.php:53
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/list-table-filters.php:52 includes/list-table-items.php:54
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: includes/list-table-filters.php:53 includes/list-table-items.php:55
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/list-table-filters.php:86 includes/list-table-filters.php:97
+#: includes/list-table-items.php:121 includes/list-table-items.php:132
+#, fuzzy
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
+
+#: includes/list-table-filters.php:87 includes/list-table-filters.php:98
+#: includes/list-table-items.php:122 includes/list-table-items.php:133
+#, fuzzy
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/list-table-filters.php:110 includes/list-table-items.php:145
+#: includes/page-filter.php:32 includes/page-item.php:34
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/list-table-filters.php:111 includes/list-table-items.php:148
+msgid "Author"
+msgstr "Автор"
+
+#: includes/list-table-filters.php:112 includes/list-table-items.php:149
+#: includes/plugin.php:1353
+msgid "Date"
+msgstr "Дата"
+
+#: includes/list-table-filters.php:113 includes/list-table-items.php:150
+msgid "Modified"
+msgstr "Изменена"
+
+#: includes/list-table-items.php:146 includes/page-item.php:45
+msgid "Active"
+msgstr "Вкл/Выкл"
+
+#: includes/list-table-items.php:147
+msgid "Type"
+msgstr "Тип"
+
+#: includes/page-filter.php:14
+msgid "Easy Custom JS & CSS Filter"
+msgstr "Фильтр"
+
+#: includes/page-filter.php:18 includes/page-filters.php:15
+msgid "Add New Filter"
+msgstr "Добавить новый фильтр"
+
+#: includes/page-filter.php:41
+msgid "[enter a value]"
+msgstr "[введите значение]"
+
+#: includes/page-filter.php:45 includes/page-item.php:122
+#: includes/page-settings.php:58
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/page-filters.php:13 includes/plugin.php:705
+msgid "Easy Custom JS & CSS Filters"
+msgstr "Фильтры"
+
+#: includes/page-item.php:14 includes/page-items.php:13 includes/plugin.php:703
+#: includes/plugin.php:704
+#, fuzzy
+msgid "Easy Custom JS & CSS"
+msgstr "Easy Custom JS & CSS"
+
+#: includes/page-item.php:18 includes/page-items.php:15
+msgid "Add JS Code"
+msgstr "Добавить JS код"
+
+#: includes/page-item.php:19 includes/page-items.php:16
+msgid "Add CSS Code"
+msgstr "Добавить CSS код"
+
+#: includes/page-item.php:20 includes/page-items.php:17
+msgid "Add HTML Code"
+msgstr "Добавить HTML код"
+
+#: includes/page-item.php:39
+msgid "Options"
+msgstr "Параметры"
+
+#: includes/page-item.php:50
+msgid "Minify output"
+msgstr "Сжать исходики"
+
+#: includes/page-item.php:51 includes/page-item.php:58 includes/plugin.php:730
+#: includes/plugin.php:878 includes/plugin.php:998
+msgid "Available only in Pro version"
+msgstr "Доступно только в PRO версии"
+
+#: includes/page-item.php:57
+msgid "Preprocessor"
+msgstr "Препроцессор"
+
+#: includes/page-item.php:62 includes/plugin.php:1314 includes/plugin.php:1415
+msgid "None"
+msgstr "Не задано"
+
+#: includes/page-item.php:63
+#, fuzzy
+msgid "Scss"
+msgstr "Scss"
+
+#: includes/page-item.php:64
+#, fuzzy
+msgid "Less"
+msgstr "Less"
+
+#: includes/page-item.php:69
+msgid "Linking type"
+msgstr "Способ подключения"
+
+#: includes/page-item.php:72
+msgid "Internal"
+msgstr "В теле страницы (internal)"
+
+#: includes/page-item.php:73
+msgid "External"
+msgstr "В виде внешнего файла (external)"
+
+#: includes/page-item.php:78
+msgid "Where on page"
+msgstr "Расположение кода на странице"
+
+#: includes/page-item.php:81
+msgid "Header"
+msgstr "В заголовке (header)"
+
+#: includes/page-item.php:82
+msgid "Footer"
+msgstr "В подвале (footer)"
+
+#: includes/page-item.php:87
+msgid "Where in site"
+msgstr "Подключение в рамках сайта"
+
+#: includes/page-item.php:90
+msgid "User side"
+msgstr "Информационная часть (user side)"
+
+#: includes/page-item.php:91
+msgid "Admin side"
+msgstr "Панель настроек (admin side)"
+
+#: includes/page-item.php:92
+msgid "All"
+msgstr "Все"
+
+#: includes/page-item.php:97
+msgid "Filter"
+msgstr "Фильтр"
+
+#: includes/page-item.php:110
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/page-item.php:115
+#, php-format
+msgid "Last edited by %1$s on %2$s"
+msgstr "Код редактирован %1$s, дата %2$s"
+
+#: includes/page-settings.php:12 includes/plugin.php:706
+msgid "Easy Custom JS & CSS Settings"
+msgstr "Настройки"
+
+#: includes/page-settings.php:28 includes/plugin.php:706
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/page-settings.php:31
+msgid "JavaScript Editor Theme"
+msgstr "Тема для редактора JavaScript кода"
+
+#: includes/page-settings.php:34 includes/page-settings.php:43
+#: includes/page-settings.php:52
+msgid "default"
+msgstr "По умолчанию"
+
+#: includes/page-settings.php:40
+msgid "CSS Editor Theme"
+msgstr "Тема для редактора CSS кода"
+
+#: includes/page-settings.php:49
+msgid "HTML Editor Theme"
+msgstr "Тема для редактора HTML кода"
+
+#: includes/page-settings.php:64
+#, fuzzy
+#| msgid "Options"
+msgid "Actions"
+msgstr "Параметры"
+
+#: includes/page-settings.php:67
+msgid "Do you really want to delete all data?"
+msgstr "Вы действительно хотите удалить все данные?"
+
+#: includes/page-settings.php:67
+msgid "Delete all data"
+msgstr "Удалить все данные"
+
+#: includes/plugin.php:95
+#, fuzzy, php-format
+msgid "The \"%s\" directory could not be created"
+msgstr "The \"%s\" directory could not be created"
+
+#: includes/plugin.php:96 includes/plugin.php:106
+#, fuzzy
+msgid "Please run the following commands in order to make the directory"
+msgstr "Please run the following commands in order to make the directory"
+
+#: includes/plugin.php:105
+#, fuzzy, php-format
+msgid ""
+"The \"%s\" directory is not writable, therefore the css and js files cannot "
+"be saved."
+msgstr ""
+"The \"%s\" directory is not writable, therefore the css and js files cannot "
+"be saved."
+
+#: includes/plugin.php:703
+#, fuzzy
+msgid "Custom JS & CSS"
+msgstr "Custom JS & CSS"
+
+#: includes/plugin.php:704
+msgid "All Items"
+msgstr "Все элементы"
+
+#: includes/plugin.php:705
+msgid "All filters"
+msgstr "Все фильтры"
+
+#: includes/plugin.php:733 includes/plugin.php:881 includes/plugin.php:1001
+msgid "Uncaught Error"
+msgstr "Неизвестная ошибка"
+
+#: includes/plugin.php:810 includes/plugin.php:952
+msgid "[Duplicate] "
+msgstr "[Копия] "
+
+#: includes/plugin.php:1054 includes/plugin.php:1110 includes/plugin.php:1250
+msgid "Item updated"
+msgstr "Элемент обновлен"
+
+#: includes/plugin.php:1057 includes/plugin.php:1113 includes/plugin.php:1253
+msgid "The operation failed, can't update item"
+msgstr "Операция закончилась неудачно, ошибка при обновлении элемента"
+
+#: includes/plugin.php:1061 includes/plugin.php:1204 includes/plugin.php:1276
+#: includes/plugin.php:1558 includes/plugin.php:1564 includes/plugin.php:1636
+#: includes/plugin.php:1642
+msgid "The operation failed"
+msgstr "Операция закончилась неудачно"
+
+#: includes/plugin.php:1131 includes/plugin.php:1268
+msgid "Item created"
+msgstr "Элемент создан"
+
+#: includes/plugin.php:1134 includes/plugin.php:1271
+msgid "The operation failed, can't create item"
+msgstr "Операция закончилась неудачно, ошибка при создании элемента"
+
+#: includes/plugin.php:1155
+msgid "Can't compile LESS data.<br>Message: "
+msgstr "Не удалось скомпилировать LESS.<br>Сообщение: "
+
+#: includes/plugin.php:1167
+msgid "Can't compile SCSS data.<br>Message: "
+msgstr "Не удалось скомпилировать SCSS.<br>Сообщение: "
+
+#: includes/plugin.php:1300
+msgid "Add rule"
+msgstr "Добавить правило"
+
+#: includes/plugin.php:1301
+msgid "Add group"
+msgstr "Добавить группу"
+
+#: includes/plugin.php:1307
+msgid "And"
+msgstr "И"
+
+#: includes/plugin.php:1308
+msgid "Or"
+msgstr "ИЛИ"
+
+#: includes/plugin.php:1317
+msgid "Server"
+msgstr "Сервер"
+
+#: includes/plugin.php:1319
+#, fuzzy
+msgid "Request URI"
+msgstr "Request URI"
+
+#: includes/plugin.php:1324
+#, fuzzy
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/plugin.php:1326
+#, fuzzy
+#| msgid "Title"
+msgid "Post Title"
+msgstr "Заголовок"
+
+#: includes/plugin.php:1327
+#, fuzzy
+#| msgid "Page Template"
+msgid "Page Title"
+msgstr "Шаблон страницы"
+
+#: includes/plugin.php:1328
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+#: includes/plugin.php:1333
+msgid "Users"
+msgstr "Пользователи"
+
+#: includes/plugin.php:1335
+msgid "Logged in"
+msgstr "Залогинен"
+
+#: includes/plugin.php:1336
+msgid "User login"
+msgstr "Логин"
+
+#: includes/plugin.php:1337
+msgid "Role"
+msgstr "Роль"
+
+#: includes/plugin.php:1342
+msgid "System"
+msgstr "Система"
+
+#: includes/plugin.php:1344
+msgid "Device"
+msgstr "Устройство"
+
+#: includes/plugin.php:1345
+msgid "OS"
+msgstr "ОС"
+
+#: includes/plugin.php:1346
+msgid "Browser"
+msgstr "Браузер"
+
+#: includes/plugin.php:1351
+#, fuzzy
+#| msgid "Date & Time"
+msgid "Server Date & Time"
+msgstr "Дата и Время"
+
+#: includes/plugin.php:1354
+msgid "Time"
+msgstr "Время"
+
+#: includes/plugin.php:1355
+msgid "Minutes"
+msgstr "Минуты"
+
+#: includes/plugin.php:1356
+msgid "Hours"
+msgstr "Часы"
+
+#: includes/plugin.php:1357
+msgid "Day"
+msgstr "День"
+
+#: includes/plugin.php:1358
+msgid "Day of week"
+msgstr "День недели"
+
+#: includes/plugin.php:1359
+msgid "Month"
+msgstr "Месяц"
+
+#: includes/plugin.php:1360
+msgid "Year"
+msgstr "Год"
+
+#: includes/plugin.php:1369
+msgid "Yes"
+msgstr "Да"
+
+#: includes/plugin.php:1370
+msgid "No"
+msgstr "Нет"
+
+#: includes/plugin.php:1371
+msgid "Contains"
+msgstr "Содержит"
+
+#: includes/plugin.php:1372
+msgid "Does not contains"
+msgstr "Не содержит"
+
+#: includes/plugin.php:1373
+msgid "Start with"
+msgstr "Начинается с"
+
+#: includes/plugin.php:1374
+msgid "End with"
+msgstr "Заканчивается на"
+
+#: includes/plugin.php:1375
+msgid "Equals"
+msgstr "Равен"
+
+#: includes/plugin.php:1376
+msgid "Does not equals"
+msgstr "Не равен"
+
+#: includes/plugin.php:1377
+msgid "Is blank"
+msgstr "Пустой"
+
+#: includes/plugin.php:1378
+msgid "Is not blank"
+msgstr "Не пустой"
+
+#: includes/plugin.php:1379
+msgid "Less than"
+msgstr "Меньше чем"
+
+#: includes/plugin.php:1380
+msgid "Greater than"
+msgstr "Больше чем"
+
+#: includes/plugin.php:1381
+msgid "Less than or equal to"
+msgstr "Меньше или равно"
+
+#: includes/plugin.php:1382
+msgid "Greater than or equal to"
+msgstr "Больше или равно"
+
+#: includes/plugin.php:1383
+msgid "In list"
+msgstr "В списке"
+
+#: includes/plugin.php:1384
+msgid "Not in list"
+msgstr "Не в списке"
+
+#: includes/plugin.php:1385
+#, fuzzy
+msgid "RegEx"
+msgstr "RegEx"
+
+#: includes/plugin.php:1598
+msgid "Settings updated"
+msgstr "Настройки обновлены"
+
+#: includes/plugin.php:1601
+msgid "The operation failed, can't update settings"
+msgstr "Операция закончилась неудачно, ошибка при обновлении настроек"
+
+#: includes/plugin.php:1660
+#, fuzzy
+#| msgid "The operation failed, can't update item"
+msgid "The operation failed, can't delete data"
+msgstr "Операция закончилась неудачно, ошибка при обновлении элемента"
+
+#: includes/plugin.php:1675
+msgid "All data deleted"
+msgstr "Все данные удалены"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Easy Custom Js And Css (PRO)"
+msgstr "Easy Custom Js And Css"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "http://avirtum.com"
+msgstr "http://avirtum.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Add your own custom css styles and javascript code with a powerful editor "
+"and take more control over themes and plugins appearance, apply styles and "
+"code based on site-specific parameters and settings like url, date, users, "
+"roles and etc."
+msgstr ""
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Avirtum"
+msgstr "Avirtum"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://avirtum.com/"
+msgstr "http://avirtum.com/"
+
+#~ msgid "Editor Settings"
+#~ msgstr "Настройки редактора"
+
+#~ msgid "Post"
+#~ msgstr "Запись (post)"
+
+#~ msgid "Page"
+#~ msgstr "Страница (page)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Easily add custom javascript code and css styles to your website with a "
+#~ "powerful editor"
+#~ msgstr ""
+#~ "Easily add custom javascript code and css styles to your website with a "
+#~ "powerful editor"
